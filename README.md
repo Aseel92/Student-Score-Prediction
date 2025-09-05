@@ -14,6 +14,7 @@ The primary goal is to identify the most influential factors affecting student p
 
 ## Dataset:
 -The dataset `StudentPerformanceFactors.csv`.
+
 -It contains 6,607 records with 20 features including both numerical and categorical variables.
 -The features capture a wide range of academic, social, and personal attributes that could potentially influence a student's score.
 
