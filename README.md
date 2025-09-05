@@ -9,6 +9,7 @@ This project analyzes student performance data and builds predictive models to f
 - Access to resources
 - Previous scores
 - And many other features
+  
 The primary goal is to identify the most influential factors affecting student performance and develop an accurate model that can be used to predict future scores. This project utilizes various machine learning algorithms to achieve this goal, including both simple and more complex models to compare their performance.
 
 ## Dataset:
